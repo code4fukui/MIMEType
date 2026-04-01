@@ -29,4 +29,8 @@ export const MIME_TYPE = {
   "glb": "model/gltf-binary",
   "gltf": "model/gltf+json",
   "stl": "model/stl",
+
+  "docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "pptx": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  "xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
 };
